@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.goods_detail swiper {
+  height: 700rpx;
+}
+.goods_detail swiper image {
+  width: 100%;
+  height: 100%;
+}
+.goods_detail .box1 {
+  padding: 10px;
+}
+.goods_detail .box1 .price {
+  font-size: 35rpx;
+  color: #b50e03;
+  line-height: 80rpx;
+}
+.goods_detail .box1 .price text:nth-child(2) {
+  color: #ccc;
+  font-size: 28rpx;
+  text-decoration: line-through;
+  margin-left: 20rpx;
+}
+.goods_detail .box1 .goods_name {
+  font-size: 32rpx;
+  line-height: 60rpx;
+}
+.goods_detail .line {
+  height: 10rpx;
+  width: 750rpx;
+  background: #eee;
+}
+.goods_detail .box2 {
+  padding: 0 10px;
+  font-size: 32rpx;
+  line-height: 70rpx;
+}
+.goods_detail .box3 {
+  padding-bottom: 50px;
+}
+.goods_detail .box3 .tit {
+  font-size: 32rpx;
+  padding-left: 10px;
+  border-bottom: 1px solid #eee;
+  line-height: 70rpx;
+}
+.goods_detail .box3 .content {
+  padding: 10px;
+  font-size: 28rpx;
+  color: #333;
+  line-height: 50rpx;
+}
+.goods_detail .box3 .content .gomeImgLoad {
+  width: 750rpx;
+  height: auto;
+}
+.goods_detail .goods_nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+

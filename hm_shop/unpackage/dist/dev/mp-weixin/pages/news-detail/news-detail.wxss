@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.news_detail {
+  font-size: 30rpx;
+  padding: 0 20rpx;
+}
+.news_detail .title {
+  text-align: center;
+  width: 710rpx;
+  display: block;
+  margin: 20rpx 0;
+}
+.news_detail .info {
+  display: flex;
+  justify-content: space-between;
+}
+
