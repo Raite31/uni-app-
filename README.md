@@ -11,3 +11,5 @@
 
 知识点了解：
 1. [uniapp文档](https://uniapp.dcloud.io/)
+2. vue
+3. 微信小程序
